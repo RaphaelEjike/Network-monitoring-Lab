@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Network monitoring Lab is aimed to establish a controlled environment for simulating and detecting network ativities. The primary focus was generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Network monitoring Lab is aimed to establish a controlled environment for simulating and detecting network activities. The primary focus was generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ## Tools Used
 
